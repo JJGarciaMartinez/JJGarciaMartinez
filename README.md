@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/lR8dgEP.gif" align="center" alt="" style="object-fit:contain;"/>
-<img src="https://i.imgur.com/mxJgST2.png" align="center" alt="" style="object-fit:contain; margin-bottom:4rem;"/>
+<img src="https://i.imgur.com/Xzb193s.png" align="center" alt="" style="object-fit:contain; margin-bottom:4rem;"/>
 
 ![GitHub followers](https://img.shields.io/github/followers/JJGarciaMartinez)
 ![GitHub User's stars](https://img.shields.io/github/stars/JJGarciaMartinez)
