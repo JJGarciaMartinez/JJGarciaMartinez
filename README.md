@@ -1,12 +1,12 @@
-<img src="https://i.imgur.com/IGuNDh9.gif" align="center" alt="" width="100%" style="object-fit:contain;"/>
-<img src="https://i.imgur.com/YuVatdU.png" align="center" alt="" width="100%" style="object-fit:contain; margin-bottom:4rem;"/>
+<img src="https://i.imgur.com/lR8dgEP.gif" align="center" alt="" style="object-fit:contain;"/>
+<img src="https://i.imgur.com/mxJgST2.png" align="center" alt="" style="object-fit:contain; margin-bottom:4rem;"/>
 
 ![GitHub followers](https://img.shields.io/github/followers/JJGarciaMartinez)
 ![GitHub User's stars](https://img.shields.io/github/stars/JJGarciaMartinez)
 <img src="https://komarev.com/ghpvc/?username=JJGarciaMartinez&style=flat-square&color=yellow" alt="" />
 
 
-### REDES SOCIALES
+## REDES SOCIALES
 <div id="badges" style="display: flex; justify-content: start; gap: 0.5rem">
     <a href="https://www.linkedin.com/in/juanjgarcia23/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -22,7 +22,7 @@
     </a>
 </div>
 
-### TECNOLOGIAS
+## TECNOLOGIAS
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
