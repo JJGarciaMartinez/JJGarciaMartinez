@@ -1,26 +1,26 @@
 # Hola!👋 Soy Juan, Full Stack Web Developer
+![GitHub followers](https://img.shields.io/github/followers/JJGarciaMartinez)
+![GitHub User's stars](https://img.shields.io/github/stars/JJGarciaMartinez)
+<img src="https://komarev.com/ghpvc/?username=JJGarciaMartinez&style=flat-square&color=yellow" alt="" />
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/Tm6WScu6gjrYHxVruO/giphy.gif" width="500" />
-</div>
 
-## REDES SOCIALES
+### REDES SOCIALES
 <div id="badges" style="display: flex; justify-content: start; gap: 0.5rem">
-    <a href="https://www.linkedin.com/in/juanjgarcia23/">
+    <a href="https://www.linkedin.com/in/juanjgarcia23/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge" />
     </a>
-    <a href="https://twitter.com/JuanGMc23">
+    <a href="https://twitter.com/JuanGMc23" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
             alt="Twitter Badge" />
     </a>
-    <a href="https://github.com/JJGarciaMartinez">
+    <a href="https://github.com/JJGarciaMartinez" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-            alt="Twitter Badge" />
+            alt="Github Badge" />
     </a>
 </div>
 
-## TECNOLOGIAS
+### TECNOLOGIAS
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,6 +33,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![JJGarciaMartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJGarciaMartinez&show_icons=true&theme=gruvbox)
 
-<img src="https://komarev.com/ghpvc/?username=JJGarciaMartinez&style=flat-square&color=yellow" alt=""/>
+![JJGarciaMartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJGarciaMartinez&show_icons=true&theme=dark)
+
