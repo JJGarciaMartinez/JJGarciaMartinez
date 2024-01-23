@@ -1,5 +1,8 @@
-<img src="https://i.imgur.com/lR8dgEP.gif" align="center" alt="" style="object-fit:contain;"/>
-<img src="https://i.imgur.com/Xzb193s.png" align="center" alt="" style="object-fit:contain; margin-bottom:4rem;"/>
+<div style="display:flex; flex-direction: column; justify-content:center; align-content=center; height:10rem;">
+<img src="https://i.imgur.com/lR8dgEP.gif" alt="" style="object-fit:contain; width=100%; height=100%;"/>
+<img src="https://i.imgur.com/Xzb193s.png" alt="" style="object-fit:contain; margin-bottom:4rem;"/>
+</div>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/JJGarciaMartinez)
 ![GitHub User's stars](https://img.shields.io/github/stars/JJGarciaMartinez)
