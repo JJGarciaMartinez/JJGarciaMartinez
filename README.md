@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Xzb193s.png" alt="" style="object-fit:contain; margin-bottom:4rem;"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JJGarciaMartinez&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JJGarciaMartinez&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub followers](https://img.shields.io/github/followers/JJGarciaMartinez)
 ![GitHub User's stars](https://img.shields.io/github/stars/JJGarciaMartinez)
