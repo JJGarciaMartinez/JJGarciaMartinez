@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/lR8dgEP.gif" alt="" style="object-fit:contain;"/>
-<img src="https://i.imgur.com/Xzb193s.png" alt="" style="object-fit:contain; margin-bottom:4rem;"/>
+<img src="https://res.cloudinary.com/juanjportfolio/image/upload/v1710219634/Profile%20Pic/brandbanner_xqe5nj.png" alt="" style="object-fit:contain;"/>
+<h1 align="center"><p>Juan García - Full Stack Web Developer</p></h1>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JJGarciaMartinez&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
