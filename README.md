@@ -55,5 +55,7 @@
 
 <b>Nota:</b> Las estadísticas de los lenguajes principales en mi perfil son simplemente una métrica basada en el código público y no reflejan mi nivel de habilidad ni experiencia en cada lenguaje.
 
+<br/>
+<p align=center>Estadisticas de contribuciones</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JJGarciaMartinez&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JJGarciaMartinez&theme=github-compact&hide_border=true&bg_color=ff000000&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-grap)
