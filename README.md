@@ -44,14 +44,14 @@
 
  <h3>Streak Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JJGarciaMartinez&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JJGarciaMartinez&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats)
 
 
 <h3>GitHub Profile Stats</h3>
 
-![JJGarciaMartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJGarciaMartinez&show_icons=true&theme=dark&hide_border=true)
+![JJGarciaMartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJGarciaMartinez&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JJGarciaMartinez&langs_count=8&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true)
 
 <b>Nota:</b> Las estadísticas de los lenguajes principales en mi perfil son simplemente una métrica basada en el código público y no reflejan mi nivel de habilidad ni experiencia en cada lenguaje.
 
