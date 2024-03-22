@@ -3,7 +3,7 @@
 <h1 ><p>Juan García - Full Stack Web Developer</p></h1>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JJGarciaMartinez&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JJGarciaMartinez&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub followers](https://img.shields.io/github/followers/JJGarciaMartinez)
 ![GitHub User's stars](https://img.shields.io/github/stars/JJGarciaMartinez)
