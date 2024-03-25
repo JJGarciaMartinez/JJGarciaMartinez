@@ -51,7 +51,7 @@
 
 ![JJGarciaMartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJGarciaMartinez&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJGarciaMartinez&layout=compact&theme=transparent&hide_border=true)
 
 <b>Nota:</b> Las estadísticas de los lenguajes principales en mi perfil son simplemente una métrica basada en el código público y no reflejan mi nivel de habilidad ni experiencia en cada lenguaje.
 
