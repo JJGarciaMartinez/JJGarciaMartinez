@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://res.cloudinary.com/juanjportfolio/image/upload/v1710219634/Profile%20Pic/brandbanner_xqe5nj.png" alt="" style="object-fit:contain;" align="center"/>
-<h1 ><p>Juan García - Full Stack Web Developer</p></h1>
+<h1 ><p>Juan García - Front End Web Developer</p></h1>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JJGarciaMartinez&theme=nord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
